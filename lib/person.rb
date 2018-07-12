@@ -9,6 +9,6 @@ end
 
 end
 
-puts person.new
+puts Person
   
   
