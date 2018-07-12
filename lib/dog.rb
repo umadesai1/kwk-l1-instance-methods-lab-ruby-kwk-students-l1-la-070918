@@ -5,4 +5,5 @@ class Dog
   end
 end
 
-dog_one = dog.new()
+dog_one = dog.new("Woof!","The Dog is sitting")
+
