@@ -5,5 +5,5 @@ class Dog
   end
 end
 
-def 
+def bark 
 
