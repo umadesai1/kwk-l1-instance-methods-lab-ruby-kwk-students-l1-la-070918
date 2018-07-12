@@ -9,7 +9,6 @@ def bark
   @bark 
 end
 
-def bark
 
 def sit
   @sit
