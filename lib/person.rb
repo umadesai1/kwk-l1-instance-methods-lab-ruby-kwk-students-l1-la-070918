@@ -5,5 +5,8 @@ class Person
   end
 end
 
+def talk
+  @talk
+end 
     
     
