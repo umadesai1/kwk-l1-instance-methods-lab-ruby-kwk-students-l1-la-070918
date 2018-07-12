@@ -9,4 +9,7 @@ def talk
   @talk
 end 
     
+def walk
+  @walk
+end 
     
