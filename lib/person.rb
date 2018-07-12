@@ -15,6 +15,6 @@ end
 
 end
 
-person_one =
+person_one = person.new("Hello World!","The Person is walking")
   
   
