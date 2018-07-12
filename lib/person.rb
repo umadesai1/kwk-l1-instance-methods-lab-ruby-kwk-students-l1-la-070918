@@ -1,16 +1,13 @@
 class Person
-
-def talk
-  @talk
+ def talk
+  puts "Hello World!"
 end 
     
 def walk
-  @walk
+  puts "The Person is walking"
 end
 
 end
-
-person_one = person.new("Hello World!","The Person is walking")
 
 puts person.new
   
