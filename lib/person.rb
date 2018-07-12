@@ -11,5 +11,9 @@ end
     
 def walk
   @walk
-end 
-    
+end
+
+end
+
+  
+  
