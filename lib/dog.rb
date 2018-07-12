@@ -15,5 +15,5 @@ end
 
 end 
 
-
+one_dog = dog.new  ("Woof","The Dog is sitting")
 
